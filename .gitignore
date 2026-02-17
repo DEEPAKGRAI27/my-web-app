@@ -1,0 +1,1 @@
+# Byte-compiled / optimized / DLL files\n__pycache__/\n*.py[cod]\n*$py.class\n\n# Distribution / packaging\n.Python\nbuild/\ndist/\n*.egg-info/\n*.egg\n\n# Virtual environment\nvenv/\nENV/\n.env/\n.env.local/\n.env.*.local\n\n# Flask instance folder\ninstance/\n\n# pytest\n.cache\n
